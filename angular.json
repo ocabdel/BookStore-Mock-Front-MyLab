@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "BookStore-Mock-Front"
+    }
+  },
+  "defaultProject": "BookStore-Mock-Front",
+  "cli": {
+    "analytics": "deb8c1e7-5c08-41d9-aaea-cb864000a98f"
+  }
 }
